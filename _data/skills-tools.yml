@@ -5,6 +5,9 @@
 # - name: Git
 #   weight: 5
 
+- name: Proxmox VE
+  weight: 5
+
 - name: Git
   weight: 4
 
@@ -15,7 +18,10 @@
   weight: 4
 
 - name: Gitlab CI/CD
-  weight: 3
+  weight: 4
+
+- name: Hyper-V
+  weight: 4
 
 - name: Ansible
   weight: 3
@@ -32,8 +38,5 @@
 - name: papertrailapp/syslog
   weight: 2
 
-- name: Hyper-V
-  weight: 3
-
-- name: Proxmox VE
-  weight: 4
+- name: Github Actions
+  weight: 1
