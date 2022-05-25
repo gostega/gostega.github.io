@@ -5,17 +5,8 @@
 # - name: Framework
 #   weight: 5
 
-# - name: Angular
-#   weight: 5
-
-# - name: AngularJS
-#   weight: 3
-
-# - name: React
-#   weight: 4
-
 - name: Active Directory
-  weight: 5
+  weight: 4
 
 - name: Debian/Linux
   weight: 3
@@ -27,6 +18,9 @@
   weight: 3
 
 - name: Cloudflare
+  weight: 3
+
+- name: Dell servers
   weight: 3
 
 - name: AWS S3
@@ -41,8 +35,14 @@
 - name: Microsoft 365
   weight: 3
 
-- name: esxi
+- name: VMware esxi
   weight: 2
 
 - name: CentOS
   weight: 2
+
+- name: Kubernetes
+  weight: 1
+
+- name: Talos
+  weight: 1
