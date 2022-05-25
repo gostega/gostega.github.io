@@ -14,6 +14,9 @@
 - name: Batch/CMD
   weight: 3
 
+- name: Yaml
+  weight: 3
+
 - name: VBscript
   weight: 3
 
