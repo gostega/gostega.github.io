@@ -17,15 +17,15 @@
   descr: "A library to facilitate quick and easy import of a sophisticated logging framework to any bash script"
   # demo: ""
   tags:
-    - tag: bash
-    - tag: logging
+    - tag: Bash
+    - tag: Logging
 
 - name: Bash Debug Library
   descr: "A library to facilitate quick and easy import of a useful debugging framework to any bash script"
   # demo: ""
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: Bash
+    - tag: Debug
 
 - name: Coming soon
-  descr: "Will add more here after I've uploaded them to github"
+  descr: "more coming soon"
