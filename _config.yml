@@ -35,7 +35,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I love coding, automation, microservices and event driven architecture. I enjoy working with Ansible, Bash, Docker, Golang, Gitlab and many other tools.
+about_me_description: I love coding, automation, microservices and event driven architecture. I enjoy working with Ansible, Bash, Docker, Golang, Gitlab and many other tools. If the right opportunity arises, I'm interested in a change in career to backend developer (Golang) so I can write more code. My dream is to work on designing and developing microservices.
 
 # SKILLS SECTION
 # show_skills_card:
