@@ -1,0 +1,31 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: Bash Logging Library
+  descr: "A library to facilitate quick and easy import of a sophisticated logging framework to any bash script"
+  # demo: ""
+  tags:
+    - tag: bash
+    - tag: logging
+
+- name: Bash Debug Library
+  descr: "A library to facilitate quick and easy import of a useful debugging framework to any bash script"
+  # demo: ""
+  tags:
+    - tag: Python
+    - tag: Django
+
+- name: Coming soon
+  descr: "Will add more here after I've uploaded them to github"

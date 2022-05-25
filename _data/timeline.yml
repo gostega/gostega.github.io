@@ -1,0 +1,116 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: IT Administrator and DevOps Software Engineer
+  title-url: https://www.elementengineering.com.au
+  date: Jul 2020 - Present
+  subtitle: Element Engineering Australia
+  tags:
+    - tag: Ansible
+    - tag: Terraform
+    - tag: Gitlab CI/CD
+    - tag: Proxmox VE
+    - tag: Ubiquiti
+    - tag: Bash
+    - tag: cloudinit
+    - tag: Nginx
+    - tag: Docker
+    - tag: Docker compose
+  timeline-side: right
+
+- title: Systems and Network Administrator
+  title-url: https://www.jsracs.wa.edu.au
+  date: Nov 2011 - Jul 2020
+  subtitle: John Septimus Roe Anglican Community School
+  tags:
+    - tag: IT Department Manager
+    - tag: Hyper-V
+    - tag: Active Directory
+    - tag: Cisco switching
+    - tag: Aerohive wireless
+    - tag: Dell hyper-converged
+    - tag: Group Policy
+    - tag: DFS
+    - tag: ADFS
+    - tag: Starwind
+    - tag: CCTV coverage design
+    - tag: Project management
+    - tag: Covid19 remote work transition
+    - tag: Windows Server
+    - tag: Palo Alto, cyber security
+  timeline-side: left
+
+- title: SOE Upgrade Team 2IC
+  title-url: https://www.westernpower.com.au/
+  date: Sep 2011 - Oct 2011
+  subtitle: CSC - Western Power
+  timeline-side: right
+
+- title: Remote Support Engineer
+  title-url: https://www.westernpower.com.au/
+  date: Jul 2011 - Nov 2011
+  subtitle: CSC - Western Power
+  timeline-side: right
+
+- title: SOE Upgrade Technician
+  title-url: https://www.westernpower.com.au/
+  date: Oct 2010 - Jul 2011
+  subtitle: CSC - Western Power contract
+  tags:
+    - tag: Travel
+    - tag: Night shifts
+    - tag: SCCM
+    - tag: SOE refresh
+    - tag: Quotas
+    - tag: Project work
+  timeline-side: right
+
+- title: Build Team - 1 month internship
+  title-url: https://www.westernpower.com.au/
+  date: Sep 2010
+  subtitle: CSC - Western Power
+  timeline-side: right
+
+- title: Direct 2 IT - Server Administrator
+  title-url: http://aict.wa.edu.au/
+  date: Jun 2010 - Sep 2010
+  subtitle: Australian Institute of Commerce + Technology
+  tags:
+    - tag: React
+    - tag: Node
+    - tag: Javascript
+  timeline-side: left
+
+- title: Senior Service Technician
+  title-url: http://www.pcpro.com.au
+  date: Jul 2009 - Jun 2010
+  subtitle: PC Pro Wanneroo
+  tags:
+    - tag: Virus removal
+    - tag: Hardware diagnostics
+    - tag: Data recovery
+    - tag: PC repair
+    - tag: Software troubleshooting
+  timeline-side: right
+
+- title: University of Western Australia
+  title-url: https://www.uwa.edu.au/schools/physics-mathematics-computing/department-of-computer-science-and-software-engineering
+  date: 2006 - Jun 2009
+  subtitle: B.Sc. Computer Science - Software Engineering
+  timeline-side: right

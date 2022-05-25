@@ -1,0 +1,48 @@
+# > name: Name of your framework
+# > weight: Describes how good you know the framework - values from 1 up to 5
+#
+# Example of a framework
+# - name: Framework
+#   weight: 5
+
+# - name: Angular
+#   weight: 5
+
+# - name: AngularJS
+#   weight: 3
+
+# - name: React
+#   weight: 4
+
+- name: Active Directory
+  weight: 5
+
+- name: Debian/Linux
+  weight: 3
+
+- name: Veeam
+  weight: 3
+
+- name: Windows Server
+  weight: 3
+
+- name: Cloudflare
+  weight: 3
+
+- name: AWS S3
+  weight: 2
+
+- name: AWS EC2
+  weight: 2
+
+- name: AWS Route53
+  weight: 2
+
+- name: Microsoft 365
+  weight: 3
+
+- name: esxi
+  weight: 2
+
+- name: CentOS
+  weight: 2
