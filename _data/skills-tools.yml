@@ -8,7 +8,10 @@
 - name: Git
   weight: 4
 
-- name: Docker/compose
+- name: Docker
+  weight: 4
+
+- name: Docker-compose
   weight: 4
 
 - name: Gitlab CI/CD
