@@ -23,14 +23,17 @@
 - name: Markdown
   weight: 3
 
-- name: HTML5
-  weight: 1
+- name: Json
+  weight: 3
 
 - name: Golang
   weight: 2
 
 - name: SQL
   weight: 2
+
+- name: HTML
+  weight: 1
 
 - name: Python
   weight: 1
