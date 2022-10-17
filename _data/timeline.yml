@@ -17,9 +17,27 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: DevOps Engineer
+  title-url: https://www.gaiaresources.com.au
+  date: Jul 2022 - Present
+  subtitle: Gaia Resources
+  tags:
+    - tag: Ansible
+    - tag: Pulumi
+    - tag: Gitlab CI/CD
+    - tag: AWS
+    - tag: Cloudflare
+    - tag: Bash
+    - tag: Confluence
+    - tag: Nginx
+    - tag: Docker
+    - tag: Docker compose
+    - tag: Git
+  timeline-side: right
+
 - title: IT Administrator and DevOps Software Engineer
   title-url: https://www.elementengineering.com.au
-  date: Jul 2020 - Present
+  date: Jul 2020 - Jul 2022
   subtitle: Element Engineering Australia
   tags:
     - tag: Ansible

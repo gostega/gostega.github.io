@@ -30,18 +30,10 @@
   weight: 2
 
 - name: SQL
-  weight: 2
+  weight: 1
 
 - name: HTML
   weight: 1
 
 - name: Python
   weight: 1
-# - name: Kotlin
-#   weight: 1
-
-# - name: C++
-#   weight: 2
-
-# - name: Ruby
-#   weight: 2

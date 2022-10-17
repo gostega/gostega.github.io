@@ -24,13 +24,16 @@
   weight: 4
 
 - name: Ansible
+  weight: 4
+
+- name: Pulumi
   weight: 3
 
 - name: Terraform
-  weight: 2
+  weight: 3
 
 - name: Nginx
-  weight: 2
+  weight: 3
 
 - name: fio
   weight: 2
