@@ -14,7 +14,7 @@ baseurl: ""
 username: James Tuson
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: DevOps Enthusiast
+typing_text: Site Reliability Engineer
 # email: Your E-Mail address for the email button.
 email: james@gostega.mailer.me
 # For every social button you want to display, set your username or userid
@@ -25,7 +25,7 @@ codepen_username:
 dev_username:
 linkedin_username: james-tuson
 twitter_username: gostega
-discord_username: Gostega#1224
+discord_username: gostega
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -35,7 +35,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I love coding, automation, microservices and event driven architecture. I enjoy working with Ansible, Bash, Docker, Golang, Gitlab and many other tools. If the right opportunity arises, I'm interested in a change in career to backend developer (Golang) so I can write more code. My dream is to work on designing and developing microservices.
+about_me_description: Site Reliability Engineer with ~3 years in fintech/payments (PCI-DSS environments) on top of 5+ years of DevOps and over a decade of IT systems, networks and infrastructure experience. I have a keen interest in infrastructure as code, gitops, automation, observability, CI/CD and AI-assisted engineering, and I enjoy optimising processes and leaving things better than I found them — incrementally improving systems until they run smoothly, testably, visibly and reproducibly.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -82,12 +82,12 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Preferred contact method is LinkedIn. I'm also on Discord - Gostega#1224
+contact_description: Preferred contact method is LinkedIn. I'm also on Discord - gostega
 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: gostega/test
+repository: gostega/gostega.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.

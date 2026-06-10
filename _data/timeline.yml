@@ -17,9 +17,41 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Site Reliability Engineer
+  title-url: https://www.fatzebra.com
+  date: Jan 2025 - Present
+  subtitle: Fat Zebra (Platform Team)
+  tags:
+    - tag: AWS
+    - tag: Terraform & Terragrunt
+    - tag: GitHub Actions
+    - tag: Buildkite
+    - tag: New Relic
+    - tag: PCI-DSS
+    - tag: AI-assisted engineering
+    - tag: Docker
+    - tag: Confluence
+  timeline-side: right
+
+- title: Site Reliability Engineer
+  title-url: https://www.pinpayments.com
+  date: Jul 2023 - Jan 2025
+  subtitle: Pin Payments
+  tags:
+    - tag: AWS
+    - tag: Pulumi
+    - tag: SaltStack
+    - tag: Datadog
+    - tag: PCI-DSS
+    - tag: Cloudflare
+    - tag: Wazuh & Suricata
+    - tag: PagerDuty
+    - tag: Node.js Lambda
+  timeline-side: left
+
 - title: DevOps Engineer
   title-url: https://www.gaiaresources.com.au
-  date: Jul 2022 - Present
+  date: Jul 2022 - Jun 2023
   subtitle: Gaia Resources
   tags:
     - tag: Ansible
@@ -54,7 +86,7 @@
 
 - title: Systems and Network Administrator
   title-url: https://www.jsracs.wa.edu.au
-  date: Nov 2011 - Jul 2020
+  date: Dec 2011 - Jul 2020
   subtitle: John Septimus Roe Anglican Community School
   tags:
     - tag: IT Department Manager
@@ -109,10 +141,6 @@
   title-url: http://aict.wa.edu.au/
   date: Jun 2010 - Sep 2010
   subtitle: Australian Institute of Commerce + Technology
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
   timeline-side: left
 
 - title: Senior Service Technician
