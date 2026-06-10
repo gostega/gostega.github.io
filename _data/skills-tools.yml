@@ -5,10 +5,19 @@
 # - name: Git
 #   weight: 5
 
+- name: Git
+  weight: 5
+
 - name: Proxmox VE
   weight: 5
 
-- name: Git
+- name: Gitlab CI/CD
+  weight: 5
+
+- name: Pulumi
+  weight: 4
+
+- name: Terraform & Terragrunt
   weight: 4
 
 - name: Docker
@@ -17,29 +26,23 @@
 - name: Docker-compose
   weight: 4
 
-- name: Gitlab CI/CD
-  weight: 4
-
-- name: Hyper-V
+- name: Claude Code / AI agents
   weight: 4
 
 - name: Ansible
-  weight: 4
-
-- name: Pulumi
   weight: 3
 
-- name: Terraform
+- name: SaltStack
+  weight: 3
+
+- name: Hyper-V
   weight: 3
 
 - name: Nginx
   weight: 3
 
-- name: fio
-  weight: 2
+- name: GitHub Actions
+  weight: 3
 
-- name: papertrailapp/syslog
+- name: Buildkite
   weight: 2
-
-- name: Github Actions
-  weight: 1

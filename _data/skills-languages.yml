@@ -8,32 +8,29 @@
 - name: Bash
   weight: 5
 
-- name: Powershell
+- name: Yaml
   weight: 4
 
-- name: Batch/CMD
-  weight: 3
-
-- name: Yaml
-  weight: 3
-
-- name: VBscript
-  weight: 3
-
 - name: Markdown
-  weight: 3
+  weight: 4
 
 - name: Json
+  weight: 4
+
+- name: Powershell
   weight: 3
 
 - name: Golang
+  weight: 3
+
+- name: Python
+  weight: 3
+
+- name: Typescript/Node
   weight: 2
 
 - name: SQL
   weight: 1
 
 - name: HTML
-  weight: 1
-
-- name: Python
   weight: 1

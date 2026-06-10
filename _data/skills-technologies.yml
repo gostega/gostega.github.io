@@ -5,40 +5,37 @@
 # - name: Framework
 #   weight: 5
 
-- name: Active Directory
+- name: AWS (EC2, Lambda, VPC, RDS, IAM)
+  weight: 4
+
+- name: Cloudflare
   weight: 4
 
 - name: Debian/Linux
+  weight: 4
+
+- name: PCI-DSS compliance
+  weight: 4
+
+- name: New Relic
+  weight: 4
+
+- name: Datadog
   weight: 3
 
-- name: Veeam
+- name: Redis/ElastiCache
+  weight: 3
+
+- name: Active Directory
   weight: 3
 
 - name: Windows Server
   weight: 3
 
-- name: Cloudflare
-  weight: 3
-
-- name: Dell servers
-  weight: 3
-
-- name: AWS S3
-  weight: 2
-
-- name: AWS EC2
-  weight: 2
-
-- name: AWS Route53
-  weight: 2
-
 - name: Microsoft 365
   weight: 3
 
-- name: VMware esxi
-  weight: 2
-
-- name: CentOS
+- name: OpenSearch
   weight: 2
 
 - name: Kubernetes
