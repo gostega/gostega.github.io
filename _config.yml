@@ -14,7 +14,7 @@ baseurl: ""
 username: James Tuson
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Site Reliability Engineer
+typing_text: DevOps Enthusiast
 # email: Your E-Mail address for the email button.
 email: james@gostega.mailer.me
 # For every social button you want to display, set your username or userid
@@ -118,6 +118,10 @@ google-analytics:
 
 plugins:
   - "jekyll-github-metadata"
+
+# CSS is compiled from assets/css/main.min.scss by Jekyll's built-in Sass support.
+sass:
+  style: compressed
 
 exclude:
   [

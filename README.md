@@ -20,10 +20,11 @@ The "Open Source Projects" section is populated automatically from public GitHub
 
 ## Notes
 
-- `assets/css` and `assets/js` are pre-built and committed. The gulp/npm toolchain
-  (`package.json`, `gulpfile.js`, `_sass/`, `_js/`) is only needed to rebuild them after
-  theme changes — not for content updates. It uses deprecated `node-sass` and won't build
-  on modern Node without effort; avoid touching it.
+- **Styling**: edit `assets/css/main.min.scss` (colours/fonts are variables near the top) and
+  push — GitHub Pages compiles it to `main.min.css` via Jekyll's built-in Sass. No local build.
+- `assets/js` is still pre-built and committed. The gulp/npm toolchain (`package.json`,
+  `gulpfile.js`, `_js/`) is only needed to rebuild the JS bundles after theme changes — not for
+  content or styling updates. It uses deprecated `node-sass`; avoid touching it.
 - The `Gemfile` is only for local preview (`bundle exec jekyll serve`); GitHub Pages uses
   its own pinned Jekyll version regardless.
 - Custom domain is set via `CNAME` (www.tuson.me).
