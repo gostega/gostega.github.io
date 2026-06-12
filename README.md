@@ -18,6 +18,16 @@ Edit the YAML files, push to `master`, done. The site rebuilds itself in a minut
 The "Open Source Projects" section is populated automatically from public GitHub repos
 (via `jekyll-github-metadata`, configured by `repository:` in `_config.yml`).
 
+## Local preview (optional)
+
+Pushing is enough — GitHub Pages builds the site. To preview locally first:
+
+```sh
+mise install            # installs the pinned Ruby (mise.toml)
+bundle install
+bundle exec jekyll serve # http://localhost:4000
+```
+
 ## Notes
 
 - **Styling**: edit `assets/css/main.min.scss` (colours/fonts are variables near the top) and
@@ -25,6 +35,6 @@ The "Open Source Projects" section is populated automatically from public GitHub
 - `assets/js` is still pre-built and committed. The gulp/npm toolchain (`package.json`,
   `gulpfile.js`, `_js/`) is only needed to rebuild the JS bundles after theme changes — not for
   content or styling updates. It uses deprecated `node-sass`; avoid touching it.
-- The `Gemfile` is only for local preview (`bundle exec jekyll serve`); GitHub Pages uses
+- The `Gemfile` / `Gemfile.lock` / `mise.toml` are only for local preview; GitHub Pages uses
   its own pinned Jekyll version regardless.
 - Custom domain is set via `CNAME` (www.tuson.me).
